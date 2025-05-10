@@ -1,0 +1,21 @@
+1- Install Dependencies:
+pip install instagrapi requests beautifulsoup4
+
+2- Run Code:
+python ig_spammer.py
+
+
+
+
+🔓 Premium Features Include:
+- ✅ Auto-Like Posts – Engage with the right audience instantly
+- 💬 Smart Commenting – Drop custom messages 
+- 📩 DM Automation – Reach out directly with personalized private messages
+- 🔍 Follower Parser – Extract any user's followers with ease
+- 🔎 Following Parser – Analyze who your competitors are following
+- 👥 Engagement Scraper – Collect users from post comments & likes
+- 🎥 Video Publishing – Schedule and publish videos effortlessly
+
+For premium features-Mass DMs Services and support:
+- ## Telegram: @vintok666
+  ## Link: https://t.me/vintok666
